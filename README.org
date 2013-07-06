@@ -1,0 +1,45 @@
+# -*- mode: org -*-
+# Last modified: <2013-07-06 21:57:43 Saturday by wongrichard>
+
+#+TITLE:   README
+#+AUTHOR: Richard Wong
+
+* The BIG CODE
+  The title is steal from book <Write Great Code [fn:1][fn:2]>
+  This book is trying to tell experienced programming inner things of code, and make programmers code and design better.
+
+  All things for Practical use.
+  In this project, I am trying to show things inside common algorithms, why and how to apply it in our daily jobs. So I choose this [[http://www.amazon.com/dp/032157351X/][Algorithms(4th)]] as the refer/textbook.
+  
+  These lecture will last about 10 weeks. (3-5 hours workload/week)
+  In these lectures we would have some source code.
+  And we really advant you to join us to have these big code imagine.
+
+** Things inside this class
+   1. Engineering plays an important role. refer many things from this[fn:3], this[fn:4] and this[fn:5].
+   2. Huge amount of source codes, many things from open source project.
+   3. Some Best Practice.
+   4. Programming language is not limited.(but I am a heavy python user.)
+
+
+* Syllabus
+** Lecture 1
+   <2013-07-07 Sun 9:00> => <2013-07-07 Sun 12:00>
+   A simple intro with some warm ups.
+   Basic Data Structure as stack and queue.
+
+** Lecture 2
+   # Plans to be <2013-07-14 Sun 09:00> => <2013-07-14 Sun 12:00>
+
+** ... to lecture 10.
+
+* About me.
+  I am Richard. Now living in beijing, and work for Admaster@RDBJ.
+
+* Footnotes
+
+[fn:1] [[http://www.amazon.com/dp/1593270038][Write Great Code: Volume 1: Understanding the Machine]]
+[fn:2] [[http://www.amazon.com/dp/1593270658][Write Great Code, Volume 2: Thinking Low-Level, Writing High-Level]]
+[fn:3] [[http://www.amazon.com/dp/0735619670][Code Complete(2nd)]]
+[fn:4] [[http://www.amazon.com/dp/020161622X/][The Pragmatic Programmer: From Journeyman to Master]]
+[fn:5] [[http://www.amazon.com/dp/193435628X/][Debug It!: Find, Repair, and Prevent Bugs in Your Code]]
